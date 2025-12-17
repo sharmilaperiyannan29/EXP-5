@@ -45,9 +45,9 @@ LOAD REGULATION:
  |6|600|5.21|
 
 CIRCUIT DIAGRAM:
-LINE REGULATION:
+LINE REGULATION & LOAD REGULATION
 <img width="1155" height="695" alt="BEEE EX5" src="https://github.com/user-attachments/assets/934bc429-22ba-4e50-8f9a-e454f7b94bd1" />
-LOAD REGULATION:
+
 
 
 
